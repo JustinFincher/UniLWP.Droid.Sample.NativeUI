@@ -1,0 +1,3 @@
+[submodule "Assets/FinGameWorks/UniLWP/Droid"]
+	path = Assets/FinGameWorks/UniLWP/Droid
+	url = git@github.com:JustinFincher/UniLWP.Droid.Source.CSharp.git
