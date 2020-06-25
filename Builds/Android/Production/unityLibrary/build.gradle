@@ -4,8 +4,8 @@ apply plugin: 'com.android.library'
 
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation(name: 'UniLWP-debug', ext:'aar')
+    api fileTree(dir: 'libs', include: ['*.jar'])
+    api(name: 'UniLWP-debug', ext:'aar')
 }
 
 android {
