@@ -59,7 +59,7 @@ namespace FinGameWorks.UniLWP.Droid.Demo.Scripts.Controllers
 
         public void LaunchActivity()
         {
-            LiveWallpaperManagerDroid.Instance.LaunchActivity();
+            LiveWallpaperManagerDroid.Instance.LaunchActivity("com.justzht.unilwp.droid.NativeActivity");
         }
 #endif
     }
